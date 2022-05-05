@@ -5,7 +5,7 @@
     </v-card-title>
     <v-divider></v-divider>
     <v-card-text>
-      <v-form ref="form" v-model="formModel" @submit="">
+      <v-form ref="form" v-model="formModel">
         <v-container>
           <v-row>
             <v-col cols="12" sm="6" md="4">
